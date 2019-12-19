@@ -1,0 +1,79 @@
+{
+    "name": "Fundraise.com",
+    "description": "fundraise.com makes it easy to start fundraising and raise money online for free",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1062-fundraise-com-.jpg",
+    "tags": [
+        "api provider",
+        "giving",
+        "have api",
+        "marketplaces",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fundraise-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fundraise.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1062-fundraise-com-.jpg",
+            "humanURL": "https:\/\/www.fundraise.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fundraise-com-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fundraise-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.fundraise.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fundraise-com"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.fundraise.com\/doc\/api"
+        },
+        {
+            "type": "Email",
+            "url": "info@fundraise.com"
+        },
+        {
+            "type": "Email",
+            "url": "hiring@fundraise.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@fundraise.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/fundraise"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.fundraise.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/joinfundraise"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.fundraise.com"
+        }
+    ]
+}
